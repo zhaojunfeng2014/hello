@@ -1,2 +1,2 @@
 # hello
-测试greetings
+调用greetings
